@@ -1,3 +1,6 @@
+# With GitHub Pages Gem
+remote_theme: chrisrhymes/bulma-clean-theme
+
 # Site Settings
 lang: en
 title: Bulma Clean Theme

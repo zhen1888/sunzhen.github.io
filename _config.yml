@@ -3,11 +3,11 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 # Site Settings
 lang: en
-title: Bulma Clean Theme
+title: Sun Zhen' Home Page
 tagline: Bulma Clean Theme
 email: zhensun@sjtu.edu.cn
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  This is Sun Zhen's academic homepage
 # baseurl: "/bulma-clean-theme"
 baseurl: "/"
 url: "https://www.csrhymes.com"

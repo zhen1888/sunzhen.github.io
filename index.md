@@ -1,22 +1,18 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Sun Zhen
+subtitle: PhD candidate from Shanghai Jiao Tong University
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Self-introduction
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+His current research interests are in the research of theoretical methods of brain-like navigation for unknown and complex environments.
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/chrisrhymes/bulma-clean-theme?style=social)
+## Field of Research
 
-## Ruby Gem
-
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
+His current research interests are in the research of theoretical methods of brain-like navigation for unknown and complex environments.
 
 ## GitHub Pages
 
@@ -26,29 +22,17 @@ The theme can be used with GitHub Pages by setting the `remote_theme` in your Je
 remote_theme: chrisrhymes/bulma-clean-theme
 ```
 
-## Documentation
+## Educational Experience
 
-For full instructions, please see the [Documentation](/bulma-clean-theme/docs/)
+Sun Zhen received his B.S. degree from Harbin Institute of Technology in 2017 and M.S. degree from Shanghai Jiao Tong University in 2020, and has been pursuing his Ph.D. degree at Shanghai Jiao Tong University since then. 
 
-## Page Layouts
+## About This Website
 
 This demo site showcases the available page layout options. 
 
-* Sidebar
-* Menubar
-* Tabs
-* Footer
-* Hero
-* Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
+* Publications
+* Blogs
+* Projects
+* Interesting Things
 
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+## Supported By MSP Group
